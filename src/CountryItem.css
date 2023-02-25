@@ -1,0 +1,53 @@
+.CountryBar {
+  margin: 5px;
+  padding: 0;
+  background-color: #fefefe;
+}
+
+.BarTitle {
+  padding: 6px;
+  margin: 0;
+  color: #fefefe;
+  font-size: 20px;
+}
+.SlotList {
+  width: 100%;
+  position: relative;
+  height: 35px;
+}
+.HourCard {
+  height: 35px;
+  text-align: center;
+  align-items: center;
+  border-right: 1px solid #7c8697;
+  position: absolute;
+  display: flex;
+}
+.HourShiftCard {
+  width: 50px;
+  height: 35px;
+  text-align: center;
+  align-items: center;
+  border-right: 1px solid #7c8697;
+  display: flex;
+}
+.HourCardEven {
+  background-color: #fefefe;
+}
+.HourCardOdd {
+  background-color: #f4f4f4;
+}
+.HourValue {
+  margin: auto;
+  font-size: 15px;
+}
+.HourSelectedCard {
+  background-color: #8edaf6 !important;
+}
+.footer {
+  padding-top: 100px;
+  text-align: center;
+}
+.footer a {
+  padding-left: 10px;
+}
