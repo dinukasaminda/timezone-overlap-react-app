@@ -145,8 +145,12 @@ function App() {
         })}
       </div>
       <div className="footer">
-        Made by
-        <a href="https://www.facebook.com/DinukaSaminda/">Dinuka Bandara</a>
+        <p>
+          GitHub
+          <a href="https://github.com/dinukasaminda/timezone-overlap-react-app">
+            timezone-overlap-react-app
+          </a>
+        </p>
       </div>
     </div>
   );
